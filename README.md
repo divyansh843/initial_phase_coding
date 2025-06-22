@@ -4,3 +4,6 @@ This file is for practice.
 
 # Teacher 
 Sradha Khapra
+
+# Student
+Divyansh singh
